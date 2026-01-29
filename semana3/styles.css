@@ -1,0 +1,30 @@
+.projo {
+    color: red
+}
+
+p {
+    color: blue;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: green;
+    text-decoration: underline;
+}
+
+#pmorado {
+    color: purple;
+    text-align: right;
+}
+
+ul>li {
+    color: orange;
+}
+
+.lista>ul>li {
+    color: brown;
+}
